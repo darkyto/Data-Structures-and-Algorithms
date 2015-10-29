@@ -50,7 +50,7 @@
   - Write a program that finds the shortest sequence of operations from the list above that starts from `N` and finishes in `M`.
   - _Hint_: use a queue.
   - Example: `N = 5`, `M = 16`
-  - Sequence: 5 &rarr; 7 &rarr; 8 &rarr; 16
+  - Sequence: 5 &rarr; 6 &rarr; 8 &rarr; 16
 
 
 11. Implement the data structure linked list.
